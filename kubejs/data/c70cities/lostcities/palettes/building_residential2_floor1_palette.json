@@ -1,0 +1,153 @@
+{
+  "name": "building_residential2_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "another_furniture:dark_oak_planter_box[type=right,facing=north,attached=true]"
+    },
+    {
+      "char": "b",
+      "block": "another_furniture:dark_oak_planter_box[type=middle,facing=north,attached=true]"
+    },
+    {
+      "char": "c",
+      "block": "another_furniture:dark_oak_planter_box[type=left,facing=north,attached=true]"
+    },
+    {
+      "char": "d",
+      "block": "create:cut_calcite"
+    },
+    {
+      "char": "e",
+      "block": "cfm:stripped_dark_oak_table[waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:light_gray_carpet"
+    },
+    {
+      "char": "g",
+      "block": "another_furniture:dark_oak_planter_box[type=left,facing=west,attached=true]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:light_gray_bed[part=head,occupied=false,facing=west]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "i",
+      "block": "minecraft:light_gray_bed[part=foot,occupied=false,facing=west]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dark_oak_trapdoor[facing=east,waterlogged=false,half=bottom,open=true]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dark_oak_trapdoor[facing=west,waterlogged=false,half=bottom,open=true]"
+    },
+    {
+      "char": "l",
+      "block": "cfm:stripped_dark_oak_desk[waterlogged=false,type=left,facing=east]"
+    },
+    {
+      "char": "m",
+      "block": "another_furniture:dark_oak_planter_box[type=right,facing=east,attached=true]"
+    },
+    {
+      "char": "n",
+      "block": "another_furniture:dark_oak_planter_box[type=middle,facing=west,attached=true]"
+    },
+    {
+      "char": "o",
+      "block": "cfm:stone_chair[waterlogged=false,facing=west]"
+    },
+    {
+      "char": "p",
+      "block": "cfm:stripped_dark_oak_desk[waterlogged=false,type=middle,facing=east]"
+    },
+    {
+      "char": "q",
+      "block": "another_furniture:dark_oak_planter_box[type=middle,facing=east,attached=true]"
+    },
+    {
+      "char": "r",
+      "block": "another_furniture:dark_oak_planter_box[type=right,facing=west,attached=true]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:chest",
+      "loot": "chestloot"
+    },
+    {
+      "char": "t",
+      "block": "cfm:stripped_dark_oak_desk_cabinet[waterlogged=false,type=right,open=false,facing=east]",
+      "loot": "chestloot"
+    },
+    {
+      "char": "u",
+      "block": "another_furniture:dark_oak_planter_box[type=left,facing=east,attached=true]"
+    },
+    {
+      "char": "w",
+      "block": "create:dark_oak_window"
+    },
+    {
+      "char": "x",
+      "block": "create:framed_glass_door[facing=south,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "y",
+      "block": "create:framed_glass_door[facing=south,half=lower,open=false,hinge=left]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:potted_crimson_fungus"
+    },
+    {
+      "char": "B",
+      "block": "quark:stripped_dark_oak_post[waterlogged=false,axis=y,chain_up=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "D",
+      "block": "create:dark_oak_window_pane[waterlogged=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:lantern[waterlogged=false,hanging=false]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "char": "I",
+      "block": "create:framed_glass_door[facing=south,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "J",
+      "block": "create:framed_glass_door[facing=south,half=upper,open=false,hinge=left]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:dark_oak_slab[waterlogged=false,type=top]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,shape=straight,half=bottom,facing=north]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:dark_oak_slab[waterlogged=false,type=bottom]"
+    }
+  ]
+}

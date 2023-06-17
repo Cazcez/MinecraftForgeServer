@@ -1,0 +1,124 @@
+{
+  "name": "building_hotel2_floor1_palette_180",
+  "palette": [
+    {
+      "char": "a",
+      "block": "embellishcraft:smooth_marble"
+    },
+    {
+      "char": "b",
+      "block": "quark:spruce_ladder[waterlogged=false,facing=west]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:gray_terracotta"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dark_oak_door[facing=west,half=lower,open=false,hinge=left]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:furnace[lit=false,facing=north]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:cauldron"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:black_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:dark_oak_door[facing=west,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "j",
+      "block": "quark:iron_rod[facing=up]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:quartz_stairs[waterlogged=true,shape=inner_right,half=bottom,facing=east]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:quartz_stairs[waterlogged=true,shape=inner_right,half=bottom,facing=south]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:quartz_stairs[waterlogged=false,shape=straight,half=bottom,facing=north]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:quartz_stairs[waterlogged=true,shape=inner_right,half=bottom,facing=north]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:quartz_stairs[waterlogged=true,shape=inner_right,half=bottom,facing=west]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:dark_oak_door[facing=south,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "q",
+      "block": "embellishcraft:polished_marble_slab[waterlogged=false,type=bottom]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:bookshelf"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:brown_bed[part=head,occupied=false,facing=east]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "t",
+      "block": "minecraft:brown_bed[part=foot,occupied=false,facing=east]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "u",
+      "block": "immersiveengineering:slab_concrete[waterlogged=false,type=bottom]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:dark_oak_door[facing=west,half=upper,open=false,hinge=left]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:dark_oak_door[facing=west,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "y",
+      "block": "immersiveengineering:concrete_quarter"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:dark_oak_door[facing=south,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "B",
+      "block": "cfm:oak_hedge[waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "farmersdelight:oak_cabinet[open=false,facing=north]",
+      "loot": "chestloot"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:quartz_block"
+    }
+  ]
+}

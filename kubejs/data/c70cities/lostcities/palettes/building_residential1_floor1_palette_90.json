@@ -1,0 +1,50 @@
+{
+  "name": "building_residential1_floor1_palette_90",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:dark_oak_slab[waterlogged=false,type=bottom]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dark_oak_slab[waterlogged=false,type=top]"
+    },
+    {
+      "char": "d",
+      "block": "create:cut_calcite"
+    },
+    {
+      "char": "e",
+      "block": "create:cut_calcite_slab[waterlogged=false,type=top]"
+    },
+    {
+      "char": "f",
+      "block": "create:dark_oak_window_pane[waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "farmersdelight:dark_oak_cabinet[open=false,facing=north]",
+      "loot": "chestloot"
+    },
+    {
+      "char": "h",
+      "block": "another_furniture:light_gray_lamp[lit=false,waterlogged=false,facing=up]"
+    },
+    {
+      "char": "i",
+      "block": "create:cut_calcite_stairs[waterlogged=false,shape=straight,half=top,facing=east]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:smooth_stone_slab[waterlogged=false,type=bottom]"
+    },
+    {
+      "char": "k",
+      "block": "quark:stripped_dark_oak_post[waterlogged=false,axis=y,chain_up=false]"
+    }
+  ]
+}

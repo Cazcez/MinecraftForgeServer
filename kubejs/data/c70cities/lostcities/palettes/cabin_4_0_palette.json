@@ -1,0 +1,120 @@
+{
+  "name": "cabin_4_0_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:fern"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:grass"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:spruce_sapling"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dead_bush"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_brick_slab[waterlogged=false,type=bottom]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:bookshelf"
+    },
+    {
+      "char": "j",
+      "block": "cfm:stripped_oak_table[waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:white_bed[part=head,occupied=false,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "l",
+      "block": "minecraft:white_bed[part=foot,occupied=false,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "m",
+      "block": "minecraft:stone_brick_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "n",
+      "block": "cfm:oak_hedge[waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "cold_sweat:icebox[facing=west]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:dark_oak_door[facing=west,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "q",
+      "block": "another_furniture:oak_drawer[open=false,facing=west]",
+      "loot": "chestloot"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:dark_oak_door[facing=west,half=lower,open=false,hinge=left]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:crafting_table"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:spruce_fence_gate[open=false,facing=south]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:stone_brick_slab[waterlogged=false,type=top]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:dark_oak_door[facing=west,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "y",
+      "block": "create:dark_oak_window_pane[waterlogged=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:dark_oak_door[facing=west,half=upper,open=false,hinge=left]"
+    },
+    {
+      "char": "B",
+      "block": "simplylight:illuminant_slab[waterlogged=false,facing=down]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:stone_brick_stairs[waterlogged=true,shape=straight,half=bottom,facing=north]"
+    }
+  ]
+}

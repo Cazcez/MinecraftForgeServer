@@ -1,0 +1,153 @@
+{
+  "name": "multi_communitycenter_8_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:andesite"
+    },
+    {
+      "char": "d",
+      "block": "car:line_side_long_left[facing=east]"
+    },
+    {
+      "char": "e",
+      "block": "car:line_side_long_left[facing=south]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "h",
+      "block": "create:framed_glass_door[facing=north,half=lower,open=false,hinge=left]"
+    },
+    {
+      "char": "i",
+      "block": "create:framed_glass_door[facing=north,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "j",
+      "block": "create:framed_glass"
+    },
+    {
+      "char": "k",
+      "block": "quark:polished_deepslate_vertical_slab[waterlogged=false,type=north]"
+    },
+    {
+      "char": "l",
+      "block": "embellishcraft:sturdy_steel_door[facing=north,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "m",
+      "block": "car:line_side_long_left[facing=west]"
+    },
+    {
+      "char": "n",
+      "block": "car:line_side_long_left[facing=north]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "char": "p",
+      "block": "quark:stripped_oak_post[waterlogged=false,axis=y,chain_up=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:furnace[lit=false,facing=east]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:iron_door[facing=east,half=lower,open=false,hinge=left]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,shape=straight,half=bottom,facing=south]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:iron_door[facing=east,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "u",
+      "block": "quark:stripped_dark_oak_post[waterlogged=false,axis=y,chain_up=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:iron_door[facing=north,half=lower,open=false,hinge=left]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:iron_door[facing=north,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:anvil[facing=west]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:blast_furnace[lit=false,facing=north]"
+    },
+    {
+      "char": "B",
+      "block": "create:framed_glass_door[facing=north,half=upper,open=false,hinge=left]"
+    },
+    {
+      "char": "C",
+      "block": "create:framed_glass_door[facing=north,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "D",
+      "block": "embellishcraft:sturdy_steel_door[facing=north,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:iron_door[facing=east,half=upper,open=false,hinge=left]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:iron_door[facing=east,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:iron_door[facing=north,half=upper,open=false,hinge=left]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:iron_door[facing=north,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,shape=straight,half=bottom,facing=east]"
+    },
+    {
+      "char": "L",
+      "block": "embellishcraft:air_duct"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:smooth_stone_slab[waterlogged=false,type=top]"
+    },
+    {
+      "char": "N",
+      "block": "embellishcraft:vent_air_duct[facing=down]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,shape=straight,half=bottom,facing=north]"
+    }
+  ]
+}

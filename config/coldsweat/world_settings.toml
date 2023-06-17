@@ -1,0 +1,32 @@
+
+#Format: [["dimension_1", temperature1], ["dimension_2", temperature2]... etc]
+#Common dimension IDs: minecraft:overworld, minecraft:the_nether, minecraft:the_end
+#Note: all temperatures are in Minecraft units
+#°F to MC = (x - 32) / 42
+#°C to MC = x / 23.3
+[Dimensions]
+	#Applies an offset to the world's temperature across an entire dimension
+	"Dimension Temperature Offsets" = [["minecraft:the_end", -0.1], ["minecraft:the_nether", 0.7]]
+	#Overrides existing dimension temperatures & offsets
+	#Also overrides temperatures of all biomes in the dimension
+	"Dimension Temperatures" = []
+
+#Format: [["biome_1", tempLow, tempHigh, *units], ["biome_2", tempLow, tempHigh, *units]... etc]
+#temp-low: The temperature of the biome at midnight
+#temp-high: The temperature of the biome at noon
+#units: Optional. The units of the temperature ("C" or "F". Defaults to MC units)
+#Note: all temperatures are in Minecraft units
+[Biomes]
+	#Applies an offset to the temperature of a biome (in Minecraft units).
+	"Biome Temperature Offsets" = []
+	#Defines the temperature of a biome, overriding existing biome temperatures & offsets (in Minecraft units).
+	"Biome Temperatures" = [["biomesoplenty:highland_moor", 0.5238095238095238, 0.8571428571428571], ["biomesoplenty:pumpkin_patch", 0.5952380952380952, 1.0952380952380953], ["minecraft:savanna_plateau", 1.0476190476190477, 1.5714285714285714], ["biomesoplenty:prairie", 0.8095238095238095, 1.1904761904761905], ["biomesoplenty:grassland", 0.6190476190476191, 1.1904761904761905], ["biomesoplenty:snowy_coniferous_forest", -0.09523809523809523, 0.38095238095238093], ["minecraft:taiga", 0.2857142857142857, 0.7142857142857143], ["biomesoplenty:fir_clearing", 0.5714285714285714, 0.8571428571428571], ["biomesoplenty:orchard", 0.6190476190476191, 1.0952380952380953], ["biomesoplenty:wetland", 0.7380952380952381, 1.0], ["biomesoplenty:wooded_wasteland", 1.0952380952380953, 1.5], ["minecraft:savanna", 0.9047619047619048, 1.5], ["minecraft:swamp", 0.9523809523809523, 1.2380952380952381], ["biomesoplenty:spider_nest", 1.0238095238095237, 1.0238095238095237], ["minecraft:frozen_peaks", -0.40476190476190477, 0.023809523809523808], ["biomesoplenty:rocky_rainforest", 0.9761904761904762, 1.2857142857142858], ["biomesoplenty:bayou", 0.8333333333333334, 1.0952380952380953], ["biomesoplenty:volcano", 1.4761904761904763, 2.0952380952380953], ["minecraft:old_growth_spruce_taiga", 0.38095238095238093, 0.7142857142857143], ["biomesoplenty:coniferous_forest", 0.2857142857142857, 0.6190476190476191], ["minecraft:warm_ocean", 0.8333333333333334, 1.0476190476190477], ["biomesoplenty:highland", 0.5952380952380952, 0.9047619047619048], ["biomesoplenty:fungal_jungle", 0.9761904761904762, 1.2857142857142858], ["minecraft:windswept_forest", 0.38095238095238093, 0.5714285714285714], ["biomesoplenty:field", 0.7619047619047619, 1.2619047619047619], ["biomesoplenty:dune_beach", 0.8333333333333334, 1.0952380952380953], ["minecraft:stony_shore", 0.42857142857142855, 0.6666666666666666], ["biomesoplenty:old_growth_woodland", 0.7857142857142857, 1.0952380952380953], ["biomesoplenty:seasonal_forest", 0.47619047619047616, 0.7619047619047619], ["biomesoplenty:clover_patch", 0.5714285714285714, 1.0952380952380953], ["minecraft:old_growth_birch_forest", 0.6190476190476191, 0.9523809523809523], ["minecraft:snowy_taiga", -0.09523809523809523, 0.47619047619047616], ["minecraft:desert", 0.5952380952380952, 1.9761904761904763], ["biomesoplenty:forested_field", 0.7619047619047619, 1.0952380952380953], ["biomesoplenty:mediterranean_forest", 0.7619047619047619, 1.0952380952380953], ["minecraft:deep_frozen_ocean", 0.5714285714285714, 0.7857142857142857], ["minecraft:river", 0.6666666666666666, 0.9047619047619048], ["minecraft:old_growth_pine_taiga", 0.38095238095238093, 0.7142857142857143], ["biomesoplenty:woodland", 0.8333333333333334, 1.1428571428571428], ["biomesoplenty:bog", 0.7142857142857143, 0.9761904761904762], ["minecraft:eroded_badlands", 1.3333333333333333, 2.0952380952380953], ["biomesoplenty:maple_woods", 0.6190476190476191, 0.8571428571428571], ["biomesoplenty:marsh", 1.0476190476190477, 1.3095238095238095], ["minecraft:snowy_beach", 0.14285714285714285, 0.47619047619047616], ["biomesoplenty:jade_cliffs", 0.5952380952380952, 0.9047619047619048], ["biomesoplenty:mystic_grove", 0.7857142857142857, 0.9523809523809523], ["biomesoplenty:snowy_fir_clearing", 0.0, 0.4523809523809524], ["minecraft:snowy_slopes", -0.19047619047619047, 0.14285714285714285], ["biomesoplenty:origin_valley", 0.7857142857142857, 1.1428571428571428], ["minecraft:soul_sand_valley", 0.023809523809523808, 0.023809523809523808], ["biomesoplenty:dryland", 0.8333333333333334, 1.5476190476190477], ["minecraft:badlands", 1.2380952380952381, 2.0952380952380953], ["biomesoplenty:volcanic_plains", 1.1904761904761905, 1.5], ["biomesoplenty:ominous_woods", 0.7857142857142857, 0.9523809523809523], ["minecraft:wooded_badlands", 1.1428571428571428, 1.8095238095238095], ["biomesoplenty:lush_desert", 0.9523809523809523, 1.4761904761904763], ["minecraft:windswept_savanna", 0.8333333333333334, 1.380952380952381], ["biomesoplenty:snowy_maple_woods", 0.0, 0.38095238095238093]]
+
+#Format: [season-start, season-mid, season-end]
+#Applied as an offset to the world's temperature
+["Season Temperatures"]
+	Summer = [0.4, 0.6, 0.4]
+	Autumn = [0.2, 0, -0.2]
+	Winter = [-0.4, -0.6, -0.4]
+	Spring = [-0.2, 0, 0.2]
+

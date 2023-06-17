@@ -1,0 +1,78 @@
+{
+  "name": "building_office3_ground_palette_180",
+  "palette": [
+    {
+      "char": "a",
+      "block": "embellishcraft:smooth_basalt"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "e",
+      "block": "embellishcraft:smooth_basalt_slab[waterlogged=false,type=bottom]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_brick_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:chest",
+      "loot": "chestloot"
+    },
+    {
+      "char": "i",
+      "block": "quark:spruce_ladder[waterlogged=false,facing=west]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dark_oak_door[facing=west,half=lower,open=false,hinge=left]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dark_oak_door[facing=west,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "l",
+      "block": "cfm:oak_hedge[waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:dark_oak_door[facing=west,half=upper,open=false,hinge=left]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:dark_oak_door[facing=west,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:gray_stained_glass"
+    },
+    {
+      "char": "p",
+      "block": "immersiveengineering:concrete_three_quarter"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:quartz_slab[waterlogged=false,type=bottom]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:stone_brick_wall[waterlogged=false,up=false]"
+    }
+  ]
+}

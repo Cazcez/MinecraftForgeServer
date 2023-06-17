@@ -1,0 +1,191 @@
+{
+  "name": "multi_hospital_2_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "quark:polished_limestone"
+    },
+    {
+      "char": "b",
+      "block": "embellishcraft:polished_paving"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:oak_log[axis=y]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:fern"
+    },
+    {
+      "char": "g",
+      "block": "cfm:gray_picket_fence[waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "i",
+      "block": "quark:stone_vertical_slab[waterlogged=false,type=east]"
+    },
+    {
+      "char": "j",
+      "block": "cfm:oak_park_bench[waterlogged=false,type=right,facing=south]"
+    },
+    {
+      "char": "k",
+      "block": "cfm:oak_park_bench[waterlogged=false,type=left,facing=south]"
+    },
+    {
+      "char": "l",
+      "block": "cfm:oak_hedge[waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:iron_door[facing=east,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "o",
+      "block": "quark:black_framed_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "p",
+      "block": "quark:polished_limestone_vertical_slab[waterlogged=false,type=north]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:iron_door[facing=west,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "r",
+      "block": "quark:smooth_quartz_vertical_slab[waterlogged=false,type=west]"
+    },
+    {
+      "char": "s",
+      "block": "cfm:light_gray_sofa[waterlogged=false,type=single,facing=north]"
+    },
+    {
+      "char": "t",
+      "block": "cfm:stone_chair[waterlogged=false,facing=east]"
+    },
+    {
+      "char": "u",
+      "block": "cfm:stone_table[waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "cfm:stripped_oak_chair[waterlogged=false,facing=south]"
+    },
+    {
+      "char": "x",
+      "block": "cfm:cyan_kitchen_drawer[open=false,facing=west]",
+      "loot": "chestloot"
+    },
+    {
+      "char": "y",
+      "block": "cfm:stripped_oak_chair[waterlogged=false,facing=west]"
+    },
+    {
+      "char": "A",
+      "block": "cfm:stone_chair[waterlogged=false,facing=north]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "C",
+      "block": "embellishcraft:oak_plain_door[facing=south,half=lower,open=false,hinge=left]"
+    },
+    {
+      "char": "D",
+      "block": "embellishcraft:oak_plain_door[facing=south,half=lower,open=true,hinge=left]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:dark_oak_trapdoor[facing=west,waterlogged=false,half=bottom,open=true]"
+    },
+    {
+      "char": "F",
+      "block": "quark:stone_vertical_slab[waterlogged=false,type=west]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:iron_door[facing=east,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "J",
+      "block": "create:vertical_framed_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:iron_door[facing=west,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:potted_oxeye_daisy"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:heavy_weighted_pressure_plate"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "arsenals_of_the_apocalypse:medical_storage[facing=east]",
+      "loot": "chestloot"
+    },
+    {
+      "char": "P",
+      "block": "embellishcraft:oak_plain_door[facing=south,half=upper,open=false,hinge=left]"
+    },
+    {
+      "char": "Q",
+      "block": "embellishcraft:oak_plain_door[facing=south,half=upper,open=true,hinge=left]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:large_fern[half=lower]"
+    },
+    {
+      "char": "S",
+      "block": "quark:polished_limestone_vertical_slab[waterlogged=false,type=east]"
+    },
+    {
+      "char": "T",
+      "block": "quark:smooth_stone_vertical_slab[waterlogged=false,type=west]"
+    },
+    {
+      "char": "U",
+      "block": "quark:smooth_stone_vertical_slab[waterlogged=false,type=south]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:large_fern[half=upper]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:stone_stairs[waterlogged=false,shape=inner_left,half=bottom,facing=west]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:stone_stairs[waterlogged=false,shape=straight,half=bottom,facing=south]"
+    }
+  ]
+}
