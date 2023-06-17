@@ -1,0 +1,59 @@
+{
+  "name": "multi_communitycenter_1_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:repeating_command_block[facing=east,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "summon car:car ~-0.5 ~1 ~"
+      }
+    },
+    {
+      "char": "b",
+      "block": "minecraft:chain_command_block[facing=up,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "fill ~-1 ~ ~ ~ ~ ~ immersivepetroleum:asphalt"
+      }
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_button[facing=west,face=floor]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_button[facing=east,face=floor]"
+    },
+    {
+      "char": "f",
+      "block": "car:line_side_long_left[facing=south]"
+    },
+    {
+      "char": "g",
+      "block": "car:line_side_long_left[facing=east]"
+    },
+    {
+      "char": "h",
+      "block": "car:line_side_long_left[facing=west]"
+    },
+    {
+      "char": "i",
+      "block": "car:line_side_long_left[facing=north]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:smooth_stone_slab[waterlogged=false,type=top]"
+    }
+  ]
+}

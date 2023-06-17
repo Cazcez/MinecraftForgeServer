@@ -1,0 +1,73 @@
+{
+  "name": "multi_flatapartment_1_top_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_stone_slab[waterlogged=false,type=top]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:smooth_stone_slab[waterlogged=false,type=double]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_stairs[waterlogged=false,shape=straight,half=bottom,facing=east]"
+    },
+    {
+      "char": "f",
+      "block": "embellishcraft:smooth_marble_wall[waterlogged=false,up=false]"
+    },
+    {
+      "char": "g",
+      "block": "embellishcraft:polished_marble_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "h",
+      "block": "embellishcraft:polished_marble"
+    },
+    {
+      "char": "i",
+      "block": "embellishcraft:smooth_marble"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:iron_door[facing=east,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "k",
+      "block": "create:framed_glass_trapdoor[facing=east,waterlogged=false,half=bottom,open=true]"
+    },
+    {
+      "char": "l",
+      "block": "create:framed_glass_trapdoor[facing=north,waterlogged=false,half=bottom,open=true]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:iron_door[facing=west,half=lower,open=false,hinge=right]"
+    },
+    {
+      "char": "n",
+      "block": "create:spruce_window_pane[waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:iron_door[facing=east,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:iron_door[facing=west,half=upper,open=false,hinge=right]"
+    },
+    {
+      "char": "q",
+      "block": "embellishcraft:polished_marble_slab[waterlogged=false,type=bottom]"
+    }
+  ]
+}

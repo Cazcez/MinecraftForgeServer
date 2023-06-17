@@ -1,0 +1,33 @@
+{
+  "name": "multi_gallery_3_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "quark:stone_brick_vertical_slab[waterlogged=false,type=west]"
+    },
+    {
+      "char": "b",
+      "block": "quark:stone_brick_vertical_slab[waterlogged=false,type=east]"
+    },
+    {
+      "char": "c",
+      "block": "quark:oak_hedge[waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "cfm:stripped_oak_park_bench[waterlogged=false,type=right,facing=south]"
+    },
+    {
+      "char": "e",
+      "block": "cfm:stripped_oak_park_bench[waterlogged=false,type=left,facing=south]"
+    },
+    {
+      "char": "f",
+      "block": "cfm:stripped_oak_park_bench[waterlogged=false,type=left,facing=north]"
+    },
+    {
+      "char": "g",
+      "block": "cfm:stripped_oak_park_bench[waterlogged=false,type=right,facing=north]"
+    }
+  ]
+}

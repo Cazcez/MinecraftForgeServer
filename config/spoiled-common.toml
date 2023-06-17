@@ -1,0 +1,27 @@
+
+#General settings
+[General]
+	#Determines the spoilrate in specific containers [Syntax: tileentity:spoil_rate]
+	#Examples: "minecraft:shulker_box,0" would make shulker boxes not spoil food
+	#"cookingforblockheads:fridge,0.2" would make a cooking for blockheads fridge spoil at 20% of the usual spoilrate
+	containerModifier = ["minecraft:shulker_box,0", "cfm:fridge_light,0.2", "cfm:fridge_dark,0.2", "cfm:white_cooler,0.2", "cfm:orange_cooler,0.2", "cfm:magenta_cooler,0.2", "cfm:light_blue_cooler,0.2", "cfm:yellow_cooler,0.2", "cfm:lime_cooler,0.2", "cfm:pink_cooler,0.2", "cfm:gray_cooler,0.2", "cfm:light_gray_cooler,0.2", "cfm:cyan_cooler,0.2", "cfm:purple_cooler,0.2", "cfm:blue_cooler,0.2", "cfm:brown_cooler,0.2", "cfm:green_cooler,0.2", "cfm:red_cooler,0.2", "cfm:black_cooler,0.2"]
+	#Defines the default total amount of spoiling updates for each food item 
+	#(For example, a defaultSpoilTime of 40 means any default food item will have 40 total updates before it spoils. 
+	#This can be altered when custom food spoiling is set using a datapack) [default: 30]
+	#Range: > 1
+	spoilRate = 50
+	#When enabled Spoiled initializes spoiling for all vanilla food [default: true]
+	initializeSpoiling = false
+	#When enabled enables a special recipe to merge spoiling food together [default: false]
+	mergeSpoilingFood = true
+	#When enabled Spoiled makes every edible item spoil into the specified Spoil Item (This overwrites json spoiling completely) [default: false]
+	spoilEverything = false
+	#Defines the total amount of spoiling updates that is used by the default initialized spoiling when 'initializeSpoiling' is enabled 
+	#(If the 'spoilRate' is 10 and the 'defaultSpoilTime' is set to 20 then the food will spoil after 20 * 10 seconds = 200 seconds) [default: 40]
+	#Range: > 1
+	defaultSpoilTime = 120
+	#Defines the item the foods vanilla foods will turn into when spoiled (if empty it will clear the spoiling item) [default: 'minecraft:rotten_flesh']
+	defaultSpoilItem = "minecraft:rotten_flesh"
+	#Defines a list of items that are never allowed to spoil
+	spoilBlacklist = ["minecraft:rotten_flesh", "minecraft:enchanted_golden_apple"]
+
